@@ -2,9 +2,9 @@
 ES汉语多音字分词插件
 
 ## 1. 构建环境
-JDK：1.8
-Maven：apache-maven-3.6.3
-ElasticSearch版本：5.x系列
+* JDK：1.8
+* Maven：apache-maven-3.6.3
+* ElasticSearch版本：5.x系列
 
 ## 2. 应用场景
 中文多音字分词，例如：“三一重工”，其中“重”是多音字，zhong或chong。如果用ES的默认拼音分词插件会解析成sanyizhonggong，但某些业务需要保留多音字：sanyizhonggong、sanyichonggong。
