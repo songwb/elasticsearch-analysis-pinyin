@@ -20,3 +20,4 @@ ES用的中文拼音插件是：elasticsearch-analysis-pinyin，它底层用的�
 
 
 ### 3.3 nlp-lang
+需要把lib/nlp-lang-1.7.8.jar放到ES的环境中
